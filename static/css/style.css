@@ -413,6 +413,10 @@ footer{
         width: 100% ;
         height: fit-content;
     }
+    .fo{
+        width: 150px;
+        height: 100px;
+    }
     .IT{
         width: 90%;
     }
