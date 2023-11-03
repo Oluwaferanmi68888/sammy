@@ -413,6 +413,12 @@ footer{
         width: 100% ;
         height: fit-content;
     }
+    .aptech{
+        width: 30%;
+    }
+    .space{
+        width: 10%;
+    }
     .fo{
         width: 200px;
         height: 100px;
