@@ -454,6 +454,10 @@ footer{
         width: 100%;
         height: 100px;
     }
+    .picl{
+        width: 100%;
+        height: 250px;
+    }
     .big{
         display: block;
         height: fit-content;
