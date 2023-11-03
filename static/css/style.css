@@ -441,8 +441,12 @@ footer{
     .talk{
         width: 100%;
     }
+    .enroll{
+        height: fit-content;
+    }
     .pic{
         width: 100%;
+        height: 300px;
     }
     .big{
         display: block;
