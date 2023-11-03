@@ -414,14 +414,17 @@ footer{
         height: fit-content;
     }
     .aptech{
-        width: 30%;
+        width: 30% !important;
     }
     .space{
         width: 10%;
     }
     .fo{
         width: 200px;
-        height: 100px;
+        height: 100px !important;
+    }
+    .Build{
+        font-size: large;
     }
     .IT{
         width: 90%;
@@ -452,11 +455,11 @@ footer{
     }
     .pic{
         width: 100%;
-        height: 100px;
+        height: fit-content !important;
     }
     .picl{
         width: 100%;
-        height: 250px;
+        height: 250px !important;
     }
     .big{
         display: block;
