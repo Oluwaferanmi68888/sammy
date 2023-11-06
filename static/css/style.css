@@ -424,7 +424,8 @@ footer{
         height: 100px !important;
     }
     .Build{
-        font-size: medium;
+        font-size: 26px;
+        text-align: center;
     }
     .IT{
         width: 90%;
