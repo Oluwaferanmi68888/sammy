@@ -10,6 +10,7 @@ nav{
     height: 70px;
     background-color: rgb(255, 255, 255);
     display: flex;
+    position: fixed;
     border-top: 2px solid whitesmoke;
     z-index: 10;
 }
